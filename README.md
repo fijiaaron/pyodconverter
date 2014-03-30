@@ -35,6 +35,9 @@ a Python module, exporting a DocumentConverter class with a very simple API.
 
 ChangeLog
 ---------
+v1.2.1 - 2014-03-30
+
+* ported to use Python 3.3.3 syntax (used by LibreOffice 4.2), not backwards compatible yet
 
 v1.2 - 2012-03-10
 
